@@ -4,8 +4,11 @@ Les benchmarks seront effectués via la solution de "sysbench" :  les résultats
 
 ### 1.1 Les hyperviseurs
 XCP-NG 
+
 Proxmox Ve 
+
 VMware vSphere
+
 Microsoft Hyper-V
 
 ### 1.2 OS testé
