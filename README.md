@@ -21,5 +21,9 @@ Ubuntu desktop 22.04.3
 4. Utilisation du jupyter notebook pour visualiser les comparaisons.
 
 ## 3 Résultat
+Les résultats sont stockés dans un notebook jupyter :
 
+https://colab.research.google.com/drive/1XjuZOUp6GiKl-5tx2kdzpv_5m0xPgrFv?usp=sharing
 
+## 4 Conclusion
+En résumé, les benchmarks ont permis de comparer les performances des hyperviseurs XCP-NG, Proxmox VE, VMware vSphere et Microsoft Hyper-V. Chaque hyperviseur présente des avantages et des inconvénients selon les critères évalués. Le choix de l'hyperviseur dépendra des besoins spécifiques en performances, fonctionnalités et compatibilité.
